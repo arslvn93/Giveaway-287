@@ -1,21 +1,21 @@
 const config = {
   "meta": {
-    "pageTitle": "Win $400 Blue Jays Tickets - Summer Game Night Giveaway!",
-    "navBrandLogoText": "Julian Kashani",
-    "privacyPolicyLink": "https://property.ca/privacy"
+    "pageTitle": "Win $350 Summer Adventure Date, Zipline plus Dinner",
+    "navBrandLogoText": "Kathleen Miller",
+    "privacyPolicyLink": "https://kathleenmillerrealestate.ca/PrivacyPolicy"
   },
   "giveaway": {
-    "heroHeadline": "Win <span class='highlight'>Free Toronto Blue Jays Tickets</span> for an Epic Summer Game Night!",
-    "heroSubheadline": "Score two premium seats to see the Toronto Blue Jays take on the Texas Rangers, valued at $400! Make your summer unforgettable with this all-star night out. Entry closes July 25th, winner picked July 29th.",
-    "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/3x4pjwf8h1rma0cqhn6tw7t808.jpg",
-    "promotionDates": "Enter from June 27th to July 25th, 2025 - winner announced July 29th!",
-    "endDate": "2026-12-31T23:59:00.000Z",
+    "heroHeadline": "Win <span class='highlight'>Zipline Adventure</span> plus <span class='highlight'>Patio Dinner</span> for Two!",
+    "heroSubheadline": "Celebrate the first day of summer with TreeTop Trekking in Stouffville and dinner on Main Street Newmarket. $350 value. Hurry, entry ends June 21.",
+    "heroBackgroundImageUrl": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/giveaways/generations/tkj6a1qzynrmw0cya2etxg1yb8.jpg",
+    "promotionDates": "Enter May 30 to June 21, 2026. Winner drawn June 21, 2026.",
+    "endDate": "2026-06-22T03:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
-    "entryFormCtaText": "Enter Game Night Draw!",
-    "name": "Blue Jays Summer Game Night Giveaway",
-    "successModalHeaderText": "You’re in the Draw!",
-    "successModalMainMessage": "Your entry for the <strong>Toronto Blue Jays Summer Game Night</strong> is in! Winner will be announced July 29th and notified by email. Good luck!",
-    "successModalEmailPrompt": "Watch your email and keep July 29th on your calendar—you could be on your way to the ballpark!"
+    "entryFormCtaText": "Enter Our Names!",
+    "name": "Celebrate Summer Adventure Date Giveaway",
+    "successModalHeaderText": "You're in the draw!",
+    "successModalMainMessage": "Your entry for the <strong>Celebrate Summer Adventure Date Giveaway</strong> is in. We will draw the winner on June 21 and email them. Good luck!",
+    "successModalEmailPrompt": "Watch your email on June 21, and follow on Instagram and Facebook for the winner post and local updates."
   },
   "settings": {
     "confettiColors": [
@@ -25,79 +25,83 @@ const config = {
     ],
     "showCountdownInHero": true,
     "theme": "dark",
-    "primaryColorOverride": "#0055A4",
+    "primaryColorOverride": "",
     "secondaryColorOverride": "#FFEE58",
     "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/bJbBMjcW619cJrLUJ3kY/webhook-trigger/3yNsurfrt9oBUtRBuygb",
+    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
     "facebookPixelId": "1057475448873422",
     "salesGeniusAppApi": "",
-    "followUpBossEmail": "",
-    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
-    "turnstileSiteKey": "0x4AAAAAAB5SpbWeBo7JnEIs",
-    "turnstileReplitSiteId": "0c27b526-888c-489b-8f11-66d1fcba1bfa"
+    "followUpBossEmail": ""
+  },
+  "thankYouPage": {
+    "pageTitle": "Thank You for Your Entry!",
+    "headerText": "You're In!",
+    "mainMessage": "Your entry for the <strong>Celebrate Summer Adventure Date Giveaway</strong> is in. We will draw the winner on June 21 and email them. Good luck!",
+    "socialPromptText": "Watch your email on June 21. Follow our Instagram and Facebook for the winner post and local updates."
   },
   "prize": {
     "images": [
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/hg2dnqs7yhrm80cqhn79nt68j8.jpg",
-        "alt": "Cheering fans at a Blue Jays baseball game"
+        "src": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/giveaways/generations/arbqjvwv0nrmr0cya2f903w9z0.jpg",
+        "alt": "Couple ziplining through trees at Bruce's Mill Conservation Area"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/bk4ehhbc35rmc0cqhn78wzw7t8.jpg",
-        "alt": "Couple enjoying a summer night at the Rogers Centre"
+        "src": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/giveaways/generations/anvxng9w8hrmr0cya2fv16c3tw.jpg",
+        "alt": "Aerial bridges and games at TreeTop Trekking Stouffville"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/w99mghnswxrm80cqhn7bm108b0.jpg",
-        "alt": "Exciting baseball action between Toronto Blue Jays and Texas Rangers"
+        "src": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/giveaways/generations/0fav4yy54hrmr0cya2fvpmrd68.jpg",
+        "alt": "Cozy patio dinner for two at Hungry Brew Hops on Main Street Newmarket"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/wzcq768e4drme0cqhn7v49g7tr.jpg",
-        "alt": "Tickets for a premier Blue Jays game experience"
+        "src": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/giveaways/generations/bt4y8xazhxrmw0cya2g9aghtx8.jpg",
+        "alt": "Summer lights and strolls along Newmarket Main Street"
       }
     ],
     "includedItems": [
       {
-        "icon": "fas fa-baseball-ball",
-        "text": "Two premium tickets to Blue Jays vs. Rangers"
+        "icon": "fas fa-tree",
+        "text": "TreeTop Trekking and zipline for two adults at Bruce's Mill, Stouffville"
       },
       {
-        "icon": "fas fa-user-friends",
-        "text": "Perfect for couples, friends, or a special family outing"
+        "icon": "fas fa-stopwatch",
+        "text": "About 3.5 hours of guided aerial fun in the trees"
       },
       {
-        "icon": "fas fa-star",
-        "text": "$400 total value - for a big-time experience"
+        "icon": "fas fa-mountain",
+        "text": "Choose easy or bold courses, fun for all levels"
       },
       {
-        "icon": "fas fa-city",
-        "text": "Catch live baseball in downtown Toronto"
+        "icon": "fas fa-utensils",
+        "text": "Patio dinner for two at Hungry Brew Hops, Main Street Newmarket, gift card"
       },
       {
-        "icon": "fas fa-calendar-day",
-        "text": "Game date: Summer 2025, Texas Rangers matchup"
+        "icon": "fas fa-map-marker-alt",
+        "text": "Explore York Region gems, trails, Fairy Lake, and a lively Main Street"
       }
     ],
-    "name": "Toronto Blue Jays Summer Game Night Experience",
-    "value": "$400 Value",
-    "description": "Imagine you and your favorite person cheering in the stands as the Blue Jays play live against the Texas Rangers! Feel the rush, eat ballpark snacks, and enjoy a big summer night in the city. This giveaway gets you <span class='highlight'>two premium tickets</span> for the best seats in the house. Whether it’s a fun date or a night with a friend, you’ll remember it all year long.",
-    "limitedTimeOfferText": "Summer Only - Limited Entry!",
-    "ctaButtonText": "I Want These Game Tickets!"
+    "name": "Celebrate Summer Adventure Date Giveaway",
+    "value": "$350 Value",
+    "description": "Picture this: warm sun and tall trees. You and your partner clip in and glide through the forest at TreeTop Trekking, Bruce's Mill. You laugh. You cheer. You feel brave. After the fun, you stroll Main Street Newmarket. You sit on the Hungry Brew Hops patio for a cozy dinner. Music and summer lights fill the street. Trails and the river are close by. This prize gives you the plan. You just show up and make memories.",
+    "limitedTimeOfferText": "First Day of Summer Special, Ends Soon!",
+    "ctaButtonText": "I Want This Date Night!"
   },
   "howToEnter": {
     "steps": [
       {
-        "icon": "fas fa-instagram",
-        "title": "Follow Instagram Account",
-        "description": "Follow our Instagram account to stay connected and get updates on the giveaway."
+        "icon": "fas fa-edit",
+        "title": "Follow me on Instagram",
+        "description": "Follow me @kathleen_miller_realtor"
       },
       {
         "icon": "fas fa-question-circle",
-        "title": "Answer Simple Questions",
-        "description": "Tell us a little about who you’d bring and why you’d love this summer baseball night."
+        "title": "Answer 4 Quick Questions",
+        "description": "Tell us a bit about your home plans."
       },
       {
         "icon": "fas fa-trophy",
-        "title": "Get Your Chance to Win!",
-        "description": "That’s it! Watch your inbox—winner picked July 29th."
+        "title": "You’re Entered!",
+        "description": "We pick a random winner on June 21. Watch your email."
       }
     ],
     "highlights": [
@@ -120,158 +124,162 @@ const config = {
     ]
   },
   "rules": {
+    "finePrintText": "Please read the fine print before entering.",
+    "showTipsSection": true,
     "faq": [
       {
-        "q": "Who can enter this giveaway?",
-        "a": "Anyone 18 or older living in Ontario can enter. Couples, families, and friends are welcome!"
+        "q": "Who can enter?",
+        "a": "Ontario residents who are 18 or older. One entry per person."
+      },
+      {
+        "q": "When does it end?",
+        "a": "Entries close June 21, 2026 at 11:59 PM ET. We draw the winner on June 21, 2026."
       },
       {
         "q": "How will I know if I win?",
-        "a": "Winner will get an email from jk@property.ca on July 29th. Check your inbox and spam!"
+        "a": "We will email the winner at the address used to enter. Check your inbox and spam on June 21."
       },
       {
-        "q": "Do I have to pay for anything?",
-        "a": "Nope—the tickets are totally free! Just show up and enjoy the game."
+        "q": "Do I need to be very fit?",
+        "a": "No. You can pick easy or harder courses. Follow staff guidance and safety rules."
       },
       {
-        "q": "What if I can’t make the game?",
-        "a": "If you can’t attend, let us know so someone else can use this amazing prize."
+        "q": "What should I wear?",
+        "a": "Sport clothes and closed toe running shoes. Follow TreeTop Trekking rules on their website."
+      },
+      {
+        "q": "What’s covered?",
+        "a": "TreeTop Trekking for two adults and a dinner gift card for two at Hungry Brew Hops. Extra items or add ons are not included."
       }
     ],
     "tips": [
-      "Double-check your email for typos—make sure you can be reached",
-      "Think of who you'd take for this special night",
-      "Tell family and friends to enter too",
-      "Follow Julian Kashani on Instagram or Facebook for the winner post"
+      "Use a correct email so we can reach you",
+      "Follow @kathleen_miller_realtor on Instagram and Facebook for updates",
+      "Answer the quick questions to help us learn your goals",
+      "Share with your partner so they enter too",
+      "If you win, book your outing soon for the best dates"
     ],
-    "finePrintText": "Please read the fine print before entering. Anyone can enter.",
-    "showTipsSection": true,
     "fairSelectionInfo": {
-      "title": "Fair and Random Drawing",
-      "text": "Every entry has the same fair shot! Winner is chosen by a random draw. No tricks, just luck."
+      "title": "Fair and Random Winner Selection",
+      "text": "Every entry has an equal chance. We use a random draw to pick the winner. No tricks. No favorites."
     },
     "importantNotice": {
-      "title": "Watch Your Email",
-      "text": "Only the email you use here will be contacted. Be sure to check your spam, too, on July 29th."
+      "title": "Plan for the Day",
+      "text": "The winner should plan about 3.5 hours at TreeTop Trekking in Stouffville. Wear sport clothes and running shoes. Then drive to Main Street Newmarket for a patio dinner. Park and restaurant rules and hours apply."
     }
   },
   "entryForm": {
     "sharePlatforms": {
-      "facebook": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgiveaway-558.netlify.app%2Fadmin",
-      "twitter": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fgiveaway-558.netlify.app%2Fadmin&text=Win%20Toronto%20Blue%20Jays%20Tickets%20for%20an%20Epic%20Summer%20Game%20Night!"
+      "facebook": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2FGiveaway-287.netlify.app%2Fadmin",
+      "twitter": "https://twitter.com/intent/tweet?url=https%3A%2F%2FGiveaway-287.netlify.app%2Fadmin&text=Win%20a%20%24350%20Summer%20Adventure%20Date%2C%20Zipline%20plus%20Dinner"
     },
-    "subtitle": "Enter your details below for a shot at your dream Blue Jays night out!",
-    "entryCountText": "Hundreds of Toronto fans are already in—don't miss your chance!",
-    "socialSharePrompt": "Share with your friends—make it a race to win!",
-    "consentLabel": ""
+    "subtitle": "Enter your details below for a chance to win this $350 summer date for two!",
+    "entryCountText": "Entries are coming in fast from across York Region, don’t miss out!",
+    "socialSharePrompt": "Share this with your partner and friends after you enter!"
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1760120269880_0",
-      "questionText": "What do you like the most about your current home?",
+      "id": "q_auto_1750445840887_0",
+      "questionText": "What's your current situation?",
       "options": [
         {
-          "value": "The location",
-          "text": "The location"
+          "value": "I own my home",
+          "text": "I own my home"
         },
         {
-          "value": "The layout",
-          "text": "The layout"
+          "value": "I rent",
+          "text": "I rent"
         },
         {
-          "value": "The finishes (paint, lighting, etc.)",
-          "text": "The finishes (paint, lighting, etc.)"
+          "value": "Live with family/friends",
+          "text": "Live with family/friends"
         },
         {
-          "value": "The outdoor space",
-          "text": "The outdoor space"
+          "value": "Between homes",
+          "text": "Between homes"
         }
       ]
     },
     {
-      "id": "q_auto_1760120269880_1",
-      "questionText": "Is a move on your radar in the near future?",
+      "id": "q_auto_1750445840887_1",
+      "questionText": "What are you looking to do?",
       "options": [
         {
-          "value": "Yes, sometime in 2025",
-          "text": "Yes, sometime in 2025"
+          "value": "Buy a home",
+          "text": "Buy a home"
         },
         {
-          "value": "Yes, in the next 1–2 years",
-          "text": "Yes, in the next 1–2 years"
+          "value": "Sell and buy",
+          "text": "Sell and buy"
         },
         {
-          "value": "Not at the moment",
-          "text": "Not at the moment"
+          "value": "Rent a place",
+          "text": "Rent a place"
         },
         {
-          "value": "I’m not sure yet",
-          "text": "I’m not sure yet"
+          "value": "Invest in property",
+          "text": "Invest in property"
+        },
+        {
+          "value": "Staying put",
+          "text": "Staying put"
         }
       ]
     },
     {
-      "id": "q_auto_1760120269880_2",
-      "questionText": "What’s your current housing situation?",
+      "id": "q_auto_1750445840887_2",
+      "questionText": "When are you planning to move?",
       "options": [
         {
-          "value": "I rent and am interested in buying",
-          "text": "I rent and am interested in buying"
+          "value": "ASAP",
+          "text": "ASAP"
         },
         {
-          "value": "I own and might sell within 2 years",
-          "text": "I own and might sell within 2 years"
+          "value": "3-6 months",
+          "text": "3-6 months"
         },
         {
-          "value": "I own and am happy where I am",
-          "text": "I own and am happy where I am"
+          "value": "6-12 months",
+          "text": "6-12 months"
         },
         {
-          "value": "I’m actively looking to buy or sell now",
-          "text": "I’m actively looking to buy or sell now"
+          "value": "12+ months",
+          "text": "12+ months"
+        },
+        {
+          "value": "No plans",
+          "text": "No plans"
         }
       ]
     }
   ],
-  "thankYouPage": {
-    "socialLinks": {
-      "facebook": "",
-      "instagram": "",
-      "twitter": "",
-      "tiktok": ""
-    },
-    "pageTitle": "Thank You for Your Entry!",
-    "headerText": "🎉 ONE MORE STEP",
-    "mainMessage": "Your spot for the <strong>Toronto Blue Jays Summer Game Night</strong> is almost locked in! You've made it to the final step of the giveaway - congratulations! Now all you need to do is follow my social media accounts to officially lock in your entry and stay connected",
-    "socialPromptText": "FOLLOW BOTH TO WIN! Complete Your Entry Now"
-  },
   "footerContact": {
     "social": {
-      "facebook": "https://www.facebook.com/JulianKashaniRealtor",
-      "instagram": "http://instagram.com/juliankashani"
+      "facebook": "https://www.facebook.com/share/18o2PdJxFj/?mibextid=wwXIfr",
+      "instagram": "https://www.instagram.com/kathleen_miller_realtor"
     },
     "agentContact": {
-      "name": "Julian Kashani",
-      "title": "Real Estate Agent",
-      "phone": "(416) 837-7775",
-      "email": "jk@property.ca"
+      "name": "Kathleen Miller",
+      "title": "REALTOR",
+      "phone": "6475003528",
+      "email": "kathleen@kathleenmillerrealestate.ca"
     },
-    "footerDisclaimer": "This giveaway is sponsored by Julian Kashani, REALTOR®, and is not sponsored by or affiliated with the Toronto Blue Jays or Texas Rangers. Winner selected at random from entries received by July 25th, 2025. Must be 18+ and an Ontario resident to enter.",
-    "organizerLogoUrl": "",
-    "secondaryLogoUrl": "",
-    "secondaryLogoAlt": "Property.Ca Brokerage Logo",
-    "organizerName": "Julian Kashani",
-    "brokerageName": "Property.Ca",
-    "address": "36 Distillery Lane Unit 500 Toronto M5A3C4",
-    "email": "jk@property.ca",
-    "phone": "(416) 837-7775",
-    "copyrightOwner": "Property.Ca"
+    "footerDisclaimer": "This giveaway is sponsored by Kathleen Miller at Remax Prime Properties and is not affiliated with TreeTop Trekking, Hungry Brew Hops, Instagram, or Facebook. No purchase necessary. Ontario residents only. Must be 18+. One entry per person. Entries close 2026-06-21 at 11:59 PM ET. Winner selected at random on 2026-06-21. Odds depend on number of entries. By entering, you agree to our Privacy Policy.",
+    "organizerLogoUrl": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/pending/onboarding/1778781765367-Image 2026-05-14 at 2.02 PM.jpeg",
+    "secondaryLogoUrl": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/pending/onboarding/1778781765367-Image 2026-05-14 at 2.02 PM.jpeg",
+    "secondaryLogoAlt": "Kathleen Miller",
+    "organizerName": "Kathleen Miller",
+    "brokerageName": "Remax Prime Properties",
+    "address": "72 Copper Creek Dr, 72, Markham, ON, L6B0P2, Canada",
+    "email": "kathleen@kathleenmillerrealestate.ca",
+    "phone": "6475003528",
+    "copyrightOwner": "Kathleen Miller"
   },
   "deploymentInfo": {
-    "repoName": "giveaway",
-    "repoUrl": "https://github.com/arslvn93/giveaway",
-    "netlifyUrl": "http://giveawaymain.netlify.app",
+    "repoName": "Giveaway-287",
+    "repoUrl": "https://github.com/arslvn93/Giveaway-287",
+    "netlifyUrl": "http://Giveaway-287.netlify.app",
     "netlifyId": "",
-    "tag": "Blue Jays Giveaway"
+    "tag": "Summer Adventure Date Giveaway"
   }
 };
