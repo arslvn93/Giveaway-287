@@ -28,16 +28,11 @@ const config = {
     "primaryColorOverride": "",
     "secondaryColorOverride": "#FFEE58",
     "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/bJbBMjcW619cJrLUJ3kY/webhook-trigger/3yNsurfrt9oBUtRBuygb",
-    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
     "facebookPixelId": "1057475448873422",
+    "turnstileSiteKey": "",
     "salesGeniusAppApi": "",
-    "followUpBossEmail": ""
-  },
-  "thankYouPage": {
-    "pageTitle": "Thank You for Your Entry!",
-    "headerText": "You're In!",
-    "mainMessage": "Your entry for the <strong>Celebrate Summer Adventure Date Giveaway</strong> is in. We will draw the winner on June 21 and email them. Good luck!",
-    "socialPromptText": "Watch your email on June 21. Follow our Instagram and Facebook for the winner post and local updates."
+    "followUpBossEmail": "",
+    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate"
   },
   "prize": {
     "images": [
@@ -80,7 +75,7 @@ const config = {
         "text": "Explore York Region gems, trails, Fairy Lake, and a lively Main Street"
       }
     ],
-    "name": "Celebrate Summer Adventure Date Giveaway",
+    "name": "Celebrate Summer Adventure Giveaway For 2",
     "value": "$350 Value",
     "description": "Picture this: warm sun and tall trees. You and your partner clip in and glide through the forest at TreeTop Trekking, Bruce's Mill. You laugh. You cheer. You feel brave. After the fun, you stroll Main Street Newmarket. You sit on the Hungry Brew Hops patio for a cozy dinner. Music and summer lights fill the street. Trails and the river are close by. This prize gives you the plan. You just show up and make memories.",
     "limitedTimeOfferText": "First Day of Summer Special, Ends Soon!",
@@ -95,7 +90,7 @@ const config = {
       },
       {
         "icon": "fas fa-question-circle",
-        "title": "Answer 4 Quick Questions",
+        "title": "Answer 3 Quick Questions",
         "description": "Tell us a bit about your home plans."
       },
       {
@@ -124,8 +119,6 @@ const config = {
     ]
   },
   "rules": {
-    "finePrintText": "Please read the fine print before entering.",
-    "showTipsSection": true,
     "faq": [
       {
         "q": "Who can enter?",
@@ -159,6 +152,8 @@ const config = {
       "Share with your partner so they enter too",
       "If you win, book your outing soon for the best dates"
     ],
+    "finePrintText": "Please read the fine print before entering.",
+    "showTipsSection": true,
     "fairSelectionInfo": {
       "title": "Fair and Random Winner Selection",
       "text": "Every entry has an equal chance. We use a random draw to pick the winner. No tricks. No favorites."
@@ -179,7 +174,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1750445840887_0",
+      "id": "q_auto_1779903494351_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -201,7 +196,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750445840887_1",
+      "id": "q_auto_1779903494351_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -227,7 +222,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750445840887_2",
+      "id": "q_auto_1779903494351_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
@@ -253,6 +248,18 @@ const config = {
       ]
     }
   ],
+  "thankYouPage": {
+    "socialLinks": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "tiktok": ""
+    },
+    "pageTitle": "Thank You for Your Entry!",
+    "headerText": "You're In!",
+    "mainMessage": "Your entry for the <strong>Celebrate Summer Adventure Date Giveaway</strong> is in. We will draw the winner on June 21 and email them. Good luck!",
+    "socialPromptText": "Watch your email on June 21. Follow our Instagram and Facebook for the winner post and local updates."
+  },
   "footerContact": {
     "social": {
       "facebook": "https://www.facebook.com/share/18o2PdJxFj/?mibextid=wwXIfr",
