@@ -37,7 +37,7 @@ const config = {
   "prize": {
     "images": [
       {
-        "src": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/giveaways/generations/arbqjvwv0nrmr0cya2f903w9z0.jpg",
+        "src": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/TeamUploads/upload-Zipling.webp",
         "alt": "Couple ziplining through trees at Bruce's Mill Conservation Area"
       },
       {
@@ -174,7 +174,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1779903628076_0",
+      "id": "q_auto_1779908056094_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -196,7 +196,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1779903628076_1",
+      "id": "q_auto_1779908056094_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -222,7 +222,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1779903628076_2",
+      "id": "q_auto_1779908056094_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
