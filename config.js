@@ -49,7 +49,7 @@ const config = {
         "alt": "Cozy patio dinner for two at Hungry Brew Hops on Main Street Newmarket"
       },
       {
-        "src": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/TeamUploads/upload-zipline.jpg",
+        "src": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/TeamUploads/upload-Zipline.avif",
         "alt": "Summer lights and strolls along Newmarket Main Street"
       }
     ],
@@ -174,7 +174,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1779903551147_0",
+      "id": "q_auto_1779903628076_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -196,7 +196,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1779903551147_1",
+      "id": "q_auto_1779903628076_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -222,7 +222,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1779903551147_2",
+      "id": "q_auto_1779903628076_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
